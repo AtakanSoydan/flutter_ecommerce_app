@@ -28,3 +28,35 @@ _Arama Filtresi Görünümü_
 
 _Sepet Sayfası Görünümü_
 ![Cart Screen](./screenshots/CartScreen.png)
+
+## Başlangıç (Getting Started)
+
+Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
+
+### 📋 Gereksinimler
+
+Projeyi çalıştırmadan önce bilgisayarınızda aşağıdakilerin kurulu olduğundan emin olun:
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Git](https://git-scm.com/downloads)
+- Kod Editörü (Örn: [VS Code](https://code.visualstudio.com/) veya [Android Studio](https://developer.android.com/studio))
+
+### 🚀 Kurulum Adımları
+
+1. **Projeyi bilgisayarınıza indirin (Klonlayın):**
+
+   ```bash
+   git clone https://github.com/AtakanSoydan/flutter_ecommerce_app.git
+   cd flutter_ecommerce_app
+   ```
+
+2. **Proje bağımlılıklarını yükleyin:**
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Geliştirme sunucusunu başlatın:**
+   ```bash
+   flutter run
+   ```
