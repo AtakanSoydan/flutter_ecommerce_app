@@ -4,10 +4,10 @@ Bu proje, e-ticaret uygulaması geliştirmek isteyenler için Flutter kullanıla
 
 ## ✨ Özellikler
 
-- **Ana Sayfa** Program açıldığında karşımıza çıkan sayfa.
-- **Arama Çubuğu** Kullanıcının yazarak arama yapabildiği bölüm.
-- **Sepete Ekleme Bölümü** Ürünüm detayının bulunduğu ve sepete ekleme seçeneğinin bulunduğu sayfa.
-- **Sepet Sayfası** Sepete eklenen ürünlerin listelendiği ve isteğe göre sepetten çıkartma işlemlerinin bulunduğu sayfa.
+- **Ana Sayfa:** Program açıldığında karşımıza çıkan sayfa.
+- **Arama Çubuğu:** Kullanıcının yazarak arama yapabildiği bölüm.
+- **Sepete Ekleme Bölümü:** Ürünüm detayının bulunduğu ve sepete ekleme seçeneğinin bulunduğu sayfa.
+- **Sepet Sayfası:** Sepete eklenen ürünlerin listelendiği ve isteğe göre sepetten çıkartma işlemlerinin bulunduğu sayfa.
 
 ## 🚀 Kullanılan Teknolojiler
 
