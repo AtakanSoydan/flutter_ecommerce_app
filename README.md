@@ -1,17 +1,30 @@
-# first_app
+# 📝 Flutter E-Commerce App
 
-A new Flutter project.
+Bu proje, e-ticaret uygulaması geliştirmek isteyenler için Flutter kullanılarak oluşturulmuş bir örnek uygulamadır. Uygulama, kullanıcıların ürünleri arayabileceği, detaylarını görebileceği ve sepetlerine ekleyebileceği temel özelliklere sahiptir.
 
-## Getting Started
+## ✨ Özellikler
 
-This project is a starting point for a Flutter application.
+- **Ana Sayfa** Program açıldığında karşımıza çıkan sayfa.
+- **Arama Çubuğu** Kullanıcının yazarak arama yapabildiği bölüm.
+- **Sepete Ekleme Bölümü** Ürünüm detayının bulunduğu ve sepete ekleme seçeneğinin bulunduğu sayfa.
+- **Sepet Sayfası** Sepete eklenen ürünlerin listelendiği ve isteğe göre sepetten çıkartma işlemlerinin bulunduğu sayfa.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Kullanılan Teknolojiler
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter versiyon 3.41.3
+- Dart versiyon 3.11.1
+- Android Studio - Android 16.0 - Api 36.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Ekran Görüntüleri / Screenshots
+
+_Ana Ekran Görünümü:_
+![Home Screen](./screenshots/HomeScreen.png)
+
+_Ürün Detayı Sayfası Görünümü:_
+![Product Detail](./screenshots/ProductDetail.png)
+
+_Arama Filtresi Görünümü_
+![Search](./screenshots/SearchScreen.png)
+
+_Sepet Sayfası Görünümü_
+![Cart Screen](./screenshots/CartScreen.png)
